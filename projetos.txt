@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Criação de redes sociais e campanhas para grupo",
+        "link": "https://www.99freelas.com.br/project/criacao-de-redes-sociais-e-campanhas-para-grupo-659812?fs=t",
+        "descricao": "Pretendo colocar 3 novos sites do Grupo Porta Copos no ar nos próximos 2 meses. Já estou fazendo os sites e preciso de auxílio para iniciar as redes sociais do zero e campanhas novas no Google Ads e Shopping."
+    },
+    {
+        "titulo": "Implementação de processos no Zeev",
+        "link": "https://www.99freelas.com.br/project/implementacao-de-processos-no-zeev-659249?fs=t",
+        "descricao": "Nossa empresa está procurando profissionais com experiência comprovada em Zeev para adaptar e implementar nossos processos internos na plataforma. Já temos nossos fluxos de trabalho desenhados em BPMN, que basicamente envolvem solicitações e acompanhamento de serviços.\nPrecisamos de alguém que consiga traduzir esses processos para o ambiente Zeev, garantindo que a plataforma seja utilizada da forma mais eficiente possível pela nossa equipe.\nÉ fundamental que os interessados sejam especialistas em Zeev, pois a ferramenta é bastante específica e exige conhecimento aprofundado para a adaptação correta. Por serem documentos internos, não os compartilharemos aqui, mas estamos prontos para apresentá-los ao profissional selecionado."
+    },
+    {
+        "titulo": "Shanut.co Sabedoria,  Harmonia,  Amor, Nobreza,  União e Ternura.",
+        "link": "https://www.99freelas.com.br/project/shanut-co-sabedoria-harmonia-amor-nobreza-uniao-e-ternura-659932?fs=t",
+        "descricao": "O primeiro nome a gente nunca esquece. Será também o primeiro marco que as pessoas nunca vão querer que mude, minha marca vem da Sustentabilidade. Ê ai, qual vai ser? qual marco você quer deixar para o seu lado profissional?"
+    },
+    {
+        "titulo": "Integração e-notas com checkouts",
+        "link": "https://www.99freelas.com.br/project/integracao-e-notas-com-checkouts-659930?fs=t",
+        "descricao": "Busco profissional para fazer integração entre e-notas e plataformas de pagamento via N8N.\nO objetivo é criar notas de vendas após 7 dias caso não haja pedido de reembolso nesse período.\nE cancelar notas em caso de reembolso ou chargeback.\nPlataformas a serem integradas:\nCakto\nKiwify\nTicto\nKirvano\nEduzz\nGreen"
+    },
+    {
+        "titulo": "Criação de Campanha e Configuração Google Ads",
+        "link": "https://www.99freelas.com.br/project/criacao-de-campanha-e-configuracao-google-ads-659931?fs=t",
+        "descricao": "O que precisamos:\n? Criação de campanha completa na rede de pesquisa do Google Ads\n? Criação de anúncios com bom índice de qualidade\n? Configuração de conversões (leads via formulário no site e via WhatsApp)\n? Campanha específica para direcionamento ao WhatsApp\n? Entrega da campanha totalmente configurada, com tags e conversões funcionando\n? Não será necessário o gerenciamento contínuo – queremos apenas o setup inicial da campanha\nImportante:\nNão buscamos uma contratação mensal agora. Precisamos apenas do valor fechado para a configuração e entrega da campanha pronta para rodar."
+    },
+    {
+        "titulo": "Criação de video para totem",
+        "link": "https://www.99freelas.com.br/project/criacao-de-video-para-totem-659928?fs=t",
+        "descricao": "Preciso somente que coloque o formato do video em Pixel-Pitch: 1 mm\nResolução: 320 x 1080 px\nPeso: 44Kg (com pedestal)\nDimensões: 62 x 213 x 7,7 cm\n(LxAxP) Consumo: 600W\nVídeo: .mp4, codec H.264, 60 FPS"
+    },
+    {
+        "titulo": "Projeto para aplicação Node.js em Linux",
+        "link": "https://www.99freelas.com.br/project/projeto-para-aplicacao-node-js-em-linux-659924?fs=t",
+        "descricao": "Este projeto consiste em uma aplicação Node.js projetada para ser implantada em um ambiente Linux VPS."
+    },
+    {
+        "titulo": "Criação de vinhetas/animações profissionais para canal de vídeos e marca",
+        "link": "https://www.99freelas.com.br/project/criacao-de-vinhetas-animacoes-profissionais-para-canal-de-videos-e-marca-659923?fs=t",
+        "descricao": "Buscamos um(a) motion designer criativo(a) e experiente para produzir três peças animadas de alto impacto visual e estético, que reforcem identidade, autoridade e conexão emocional com o público.\nEntregas esperadas:\n1. Animação de logotipo (até 8 segundos):\n• Animação autoral e fluida do logotipo com storytelling visual;\n• Exploração de um elemento gráfico central (foguete);\n• Estilo minimalista, sofisticado e dinâmico;\n• Entregas em 16:9, 1:1 e 9:16 (.MP4 + arquivo editável).\n2. Vinheta de abertura (5 a 10 segundos):\n• Introdução visual impactante com cenas reais (estúdio, pessoas, microfones);\n• Finalização com logotipo animado e slogan;\n• Estilo editorial moderno e inspirador.\n3. Vinheta de encerramento (5 a 8 segundos):\n• Final suave e elegante com espaço para botões de YouTube;\n• Inserção de redes sociais e site;\n• Versões com e sem trilha sonora.\nRequisitos:\n• Domínio de After Effects ou software equivalente;\n• Sensibilidade estética e narrativa;\n• Capacidade de adaptar formatos para YouTube, Feed e Stories;\n• Portfólio com projetos semelhantes será um diferencial.\nEnviar proposta para a demanda completa!"
+    },
+    {
+        "titulo": "Criação de site em WordPress/Elementor para escritório de advocacia",
+        "link": "https://www.99freelas.com.br/project/criacao-de-site-em-wordpress-elementor-para-escritorio-de-advocacia-659922?fs=t",
+        "descricao": "Estou buscando um profissional para o desenvolvimento de um site institucional em WordPress com Elementor para um escritório de advocacia.\nO layout já está 100% pronto, mas o desenvolvedor pode sugerir e aplicar melhorias pontuais para facilitar a implementação e aprimorar a usabilidade.\nRequisitos técnicos:\n• Desenvolvimento no WordPress com Elementor Free (é permitido uso de recursos adicionais como Pro Elements, mas não será fornecido Elementor Pro);\n• Site 100% responsivo, com adaptação perfeita para dispositivos móveis e diferentes navegadores;\n• Entrega com efeitos e animações suaves, que deixem a navegação fluida, moderna e profissional;\n• Painel administrativo completo com todos os acessos entregues;\n• Site leve, rápido e sem bugs de adaptação;\n• Código limpo e organização impecável de páginas, seções e conteúdos.\nEstrutura do site:\n• Home\n• Sobre o escritório\n• Nossa equipe e depoimentos\n• Serviços\n• Trabalhe conosco\n• Contato\nFuncionalidades específicas:\n• Área no painel para cadastrar novos serviços com texto, imagens e outras mídias;\n• Organização clara e acessível para que o cliente consiga atualizar o site futuramente com facilidade;\n• Formulários funcionais (para contato e para \"Trabalhe Conosco\"), com envio para e-mail.\nCritério principal de escolha:\n• Velocidade de entrega e comprometimento com o prazo combinado.\n• Boa comunicação dentro da plataforma. Não faço contato por fora do 99freelas.\nLink para visualização do layout: https://drive.google.com/open?id=1qAhi7-6njR1Nt-792KtRc39avKGcnpEW&usp=drive_fs"
+    },
+    {
+        "titulo": "Social media para cafeteria",
+        "link": "https://www.99freelas.com.br/project/social-media-para-cafeteria-659921?fs=t",
+        "descricao": "Você é apaixonado por café ou tem experiência em marketing para cafeterias e redes sociais?\nEntão essa pode ser a sua oportunidade!\nEstamos em busca de um(a) Social Media para conduzir e monitorar nossas redes sociais, seguindo o planejamento estratégico da nossa franqueadora — a Mais 1 Café.\n• Local da cafeteria: Canoas/RS (trabalho remoto)\n• Carga: Gestão contínua da rede social\n• O que você vai fazer:\nSeguir o calendário de publicações oficial fornecido pela matriz da Mais 1 Café, com artes e datas já definidas (cerca de 90% das postagens);\nPublicar conteúdos complementares, fornecidos pela cafeteria, para preencher os 10% restantes do calendário livre de cronograma prévio;\nGerenciar, responder e incentivar interações nas redes sociais, como comentários, mensagens e feedbacks;\nMonitorar e impulsionar campanhas semanais, já planejadas previamente pela cafeteria, garantindo o melhor desempenho dos criativos;\nAcompanhar postagens diárias feitas pelas baristas com fotos do momento, mantendo o perfil sempre ativo e humanizado;\nAnalisar métricas e ajustar estratégias para aumentar o alcance, engajamento e conversão em clientes.\n• Requisitos:\nExperiência comprovada como Social Media, de preferência com marcas do setor alimentício, cafeterias ou varejo;\nConhecimento de ferramentas de agendamento, impulsionamento e análise de performance;\nBoa escrita, criatividade e sensibilidade para lidar com o público;\nCapacidade de manter a consistência da marca e colaborar com a franqueadora.\nSe você tem paixão por redes sociais e quer ajudar a transformar a experiência do café em Canoas-RS, mande sua proposta por aqui!"
+    }
+]

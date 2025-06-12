@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Painel do Freelancer</title>
+    <style>
+        body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f2f5; margin: 0; }
+        .container { text-align: center; }
+        form { background: white; padding: 2rem; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); width: 300px; }
+        h2 { margin-top: 0; }
+        input { display: block; margin-bottom: 1rem; padding: 0.5rem; width: 95%; }
+        button { padding: 0.7rem; width: 100%; border: none; background-color: #007bff; color: white; border-radius: 4px; cursor: pointer; font-size: 1rem; }
+        #error-message { color: red; margin-top: 1rem; min-height: 1.2em; }
+        .extra-links { margin-top: 1rem; }
+    </style>
+</head>
+<body>
+    
+    <div class="container">
+        <form id="login-form">
+            <h2>Login</h2>
+            <input type="email" id="email" placeholder="Seu e-mail" required>
+            <input type="password" id="password" placeholder="Sua senha" required>
+            <button type="submit">Entrar</button>
+            <p id="error-message"></p>
+        </form>
+        <div class="extra-links">
+            <p>Não tem uma conta? <a href="#">Registrar</a></p>
+            <p>Esqueceu sua senha? <a href="#">Recuperar</a></p>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const loginForm = document.getElementById('login-form');
+            const errorMessage = document.getElementById('error-message');
+
+            loginForm.addEventListener('submit', async (event) => {
+                event.preventDefault();
+                errorMessage.textContent = ''; 
+
+                const email = document.getElementById('email').value;
+                const password = document.getElementById('password').value;
+
+                const formData = new FormData();
+                formData.append('username', email);
+                formData.append('password', password);
+
+                try {
+                    const response = await fetch('/token', {
+                        method: 'POST',
+                        body: formData
+                    });
+
+                    if (response.ok) {
+                        const data = await response.json();
+                        localStorage.setItem('accessToken', data.access_token);
+                        
+                        alert('Login bem-sucedido! Redirecionando...');
+
+                        // --- CORREÇÃO AQUI ---
+                        // Adiciona um delay de 50ms para dar tempo ao navegador
+                        setTimeout(() => {
+                            window.location.href = '/dashboard.html';
+                        }, 50); // 50 milissegundos é imperceptível para o usuário
+
+                    } else {
+                        errorMessage.textContent = 'E-mail ou senha incorretos.';
+                    }
+                } catch (error) {
+                    errorMessage.textContent = 'Erro ao conectar com o servidor.';
+                    console.error('Erro no login:', error);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
