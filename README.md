@@ -40,8 +40,8 @@ A aplicação foi desenvolvida como um projeto full-stack completo, demonstrando
                                                                     v
 +------------------+      +-----------------------+      +----------+----------+
 |                  |      |                       |      |                     |
-|  Usuário         |----->| Painel Web (HTML/CSS/JS)|<---->|   API Central (Py)  |
-|  (Navegador)     |      |   (Faz login, vê projs) |      |      (FastAPI)      |
+|  Usuário         |----->|Painel Web (HTML/CSS/JS)|<--->|   API Central (Py)  |
+|  (Navegador)     |      | (Faz login, vê projs) |      |      (FastAPI)      |
 |                  |      |                       |      |                     |
 +------------------+      +-----------------------+      +----------+----------+
                                                                     |
